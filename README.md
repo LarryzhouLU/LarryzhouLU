@@ -1,5 +1,5 @@
 - 👋 Hi
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarryzhouLU)](https://github.com/anuraghazra/github-readme-stats)
 <!--- 👀 I am an Undergraduate student from China.
 - 🌱 I’m learning Computer Science in University of Nottingham Ningbo China.
 - 💞️ I'm eager to be stronger.
